@@ -40,7 +40,7 @@ public class TestLogowaniaAliorBank {
             driver.switchTo().activeElement().sendKeys("1");
         }
         
-        //Zalogowanie
+        //Zalogowanie od systemu
         driver.switchTo().activeElement().sendKeys(Keys.ENTER);
         
         
